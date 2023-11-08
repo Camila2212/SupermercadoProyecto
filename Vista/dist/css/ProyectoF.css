@@ -1,0 +1,200 @@
+.minav {
+    margin-top: -10px;
+
+}
+
+#midiv {
+    background-color: yellow;
+    margin-bottom: -7px;
+
+}
+
+#nSuper {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar-brand {
+    display: flex;
+}
+
+.miul {
+    background-color: yellow
+}
+
+.divsb {
+    background-color: yellow;
+}
+
+
+.miul :hover {
+    background-color: rgb(0, 115, 255);
+}
+
+#mediosb {
+    display: flex;
+}
+
+#minisb {
+    display: flex;
+}
+
+#carrousel {
+    width: 100%;
+}
+
+.imgc {
+
+    width: 200%;
+}
+
+.Products {
+    margin-top: 15px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 23px;
+    border-radius: 50%;
+    width: 135px;
+    height: 135px;
+    border: 1px rgb(101, 101, 101) solid;
+    background-position: center;
+
+}
+
+.Products:hover {
+    border: yellow solid 10px;
+    padding: 3px;
+    transition: 1s;
+}
+
+.pro {
+    display: flex;
+    color: rgb(150, 150, 1);
+    width: 174px;
+    height: 180px;
+    flex-direction: column;
+    text-align: center;
+}
+
+#contP {
+    display: flex;
+}
+
+#titulo {
+    margin-top: 20px;
+    font-size: 60px;
+    text-align: center;
+    background-color: yellow;
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+
+.pa {
+    display: flex;
+    flex-direction: column;
+}
+
+.ofer {
+    height: 190px;
+    width: 100%;
+}
+
+.card {
+    width: 200px;
+    margin-top: 22px;
+    margin-left: 22px;
+    margin-right: 20px;
+}
+
+#card {
+    display: flex;
+}
+
+#CS {
+    margin-left: 24px;
+}
+
+.cuadrado {
+    width: 40px;
+    height: 25px;
+    background-color: yellow;
+    position: relative;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+
+.descuento {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+}
+
+.miCardProd {
+    display: flex;
+}
+
+.card1 {
+    border: 1px solid rgba(128, 128, 128, 0.1);
+    margin-top: 10px;
+    margin-left: 16px;
+    margin-right: 12px;
+}
+
+.pa1 {
+    display: flex;
+
+}
+
+.pa2 {
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.pa3 {
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.mifooter {
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+}
+.mifoo{
+    background-color: rgb(255, 255, 114);
+    margin-left: -5rem;
+}
+
+.fc{
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    margin-top: 20px;
+}
+.textC{
+    margin-left: 298px;
+    margin-top: 20px;
+}
+.pF{
+    margin-bottom: 5px;
+}
+.containerF{
+    display: flex;
+    justify-content: space-between;
+}
+.mF{
+    display: flex;
+    flex-direction: row ;
+}
+.rS{
+    margin-left: 3rem;
+}
+.dR{
+    padding-top: 1rem;
+}
